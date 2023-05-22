@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "my-app-69cb4",
+    "my-app": "blog-app-17f1c",
+    "build": "my-app-69cb4"
+  },
+  "targets": {},
+  "etags": {}
+}
